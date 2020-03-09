@@ -27,4 +27,4 @@ systems.
 3. [Connecting Your Thing to the Internet](03-Connecting/README.md)
 4. [Connect Your Things to Your Custom Web Application](04-WebApps/README.md)
 
-Est. Runtime: 200-330 minutes
+Est. Runtime: 435-650 minutes
