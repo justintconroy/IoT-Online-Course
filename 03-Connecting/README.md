@@ -7,5 +7,6 @@ systems.
 
 ## Lessons
 1. ["Blynk" an LED](01-BlynkLed.md)
-2. [Build a Dashboard in Blynk](02-BlynkDashboard.md)
-3. 
+2. [Display Sensor Readings on Blynk](02-BlynkSensors.md)
+3. [Build a Dashboard in Blynk](03-BlynkDashboard.md)
+4. [Connect to some other app/service (TBD)]()
