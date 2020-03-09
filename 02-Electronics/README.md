@@ -12,4 +12,4 @@ that we put together.
 5. [Intro to Low Level Communication Protocols](05-Comm.md)
 6. [SPI](06-SPI.md)
 7. [I2C](07-I2C.md)
-
+8. [Summary](08-Summary.md)

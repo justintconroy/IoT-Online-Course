@@ -8,3 +8,4 @@ to it.
 1. [Create a REST API](01-REST.md)
 2. [Publish to Azure](02-Azure.md)
 3. [Make a Device to Connect to Your New Service](03-Device.md)
+4. [Summary](04-Summary.md)

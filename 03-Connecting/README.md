@@ -10,3 +10,4 @@ systems.
 2. [Display Sensor Readings on Blynk](02-BlynkSensors.md)
 3. [Build a Dashboard in Blynk](03-BlynkDashboard.md)
 4. [Connect to some other app/service (TBD)]()
+5. [Summary](05-Summary.md)
