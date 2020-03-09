@@ -5,5 +5,11 @@ how to assemble some simple circuits and write code to use the parts
 that we put together.
 
 ## Lessons
-1. Electronics Intro (10-20 minutes)
-2. 
+1. [Electronics Basics](01-Basics.md)
+2. [Arduino Programming](02-Arduino.md)
+3. [Debugging with the UART](03-UART.md)
+4. [Using the Analog Pins](04-Analog.md)
+5. [Intro to Low Level Communication Protocols](05-Comm.md)
+6. [SPI](06-SPI.md)
+7. [I2C](07-I2C.md)
+
