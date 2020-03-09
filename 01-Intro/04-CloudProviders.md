@@ -3,7 +3,9 @@
 
 **DESCRIPTION:** This will be an overview of cloud providers you can use
 				 to stay connected to your IoT devices.
-**Level:** [*Basic*]  
+
+**Level:** [*Basic*]
+
 **Skills Learned:**
 1. Give a list of cloud options. Including:
 	1. Blynk
