@@ -1,4 +1,4 @@
-# Part 1: Course Introduction
+# Section 1: Course Introduction
 The student will be introduced to the course structure, IoT, devices used for
 IoT, and some of its uses in the real world.
 
