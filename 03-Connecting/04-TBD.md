@@ -1,4 +1,4 @@
-## Lesson 6: TBD
+## Lesson 4: TBD
 [Duration]-[ minutes]
 
 **DESCRIPTION:** Either, we'll do something similar to the last lesson
