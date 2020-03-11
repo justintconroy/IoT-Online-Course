@@ -1,4 +1,4 @@
-# Section 4: Connect Your Things to Your Custom Web Application
+# Section 4: Connect Your Project to Your Custom Web Application
 To take things to the next level, we'll go beyond Blynk and build our
 own custom web applications for interacting with our Things. We'll go
 over how to make a basic web application and how to connect your devices

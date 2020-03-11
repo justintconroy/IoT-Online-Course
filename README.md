@@ -16,13 +16,9 @@ basic principles about electronics, microcontrollers, and programming.
 
 
 
-There will be an ongoing project throughout the course. As we acquire
-new skills, we'll add on to this project to make a more interesting
-systems.
-
 ## Sections
 1. [Course Introduction](01-Intro/README.md)
-2. [Connecting Your Thing to the Internet](03-Connecting/README.md)
-3. [Connect Your Things to Your Custom Web Application](04-WebApps/README.md)
+2. [Connecting Your Project to the Internet](03-Connecting/README.md)
+3. [Connect Your Project to Your Custom Web Application](04-WebApps/README.md)
 
 Est. Runtime: 435-650 minutes

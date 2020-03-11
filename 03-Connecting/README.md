@@ -1,4 +1,4 @@
-# Section 3: Connecting Your Thing to the Internet
+# Section 3: Connecting Your Project to the Internet
 Now that we have a basic understanding of how to work with the
 electronics, we'll start connecting our things to the internet and to
 each other. We'll start out easy by connecting a single device to Blynk.
