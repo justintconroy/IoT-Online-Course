@@ -9,11 +9,11 @@ application to control our device.
 ## Lessons
 1. ["Blynk" an LED](01-BlynkLed.md) (5-10)
 2. [Add a Display Panel to Your Device](
-   02-Display.md) (10-20)
+   02-Display.md) (5-10)
 3. [Get a Reminder to Water Your Plant by Adding a Soil Sensor](
    03-Soil.md) (5-10)
-4. [Know When Your Cat Is Eating Your Plants With a Motion Sensor]
-   (04-Motion.md) (5-10)
+4. [Know When Your Cat Is Eating Your Plants With a Motion Sensor](
+   04-Motion.md) (5-10)
 5. [Track Environmental Conditions Using the DHT22 Humidity/Temperature Sensor](
    05-DHT22.md) (10-20)
 6. [Measure How Much Light You Get With a UV Sensor and an RGB Sensor](

@@ -1,5 +1,5 @@
 ## Lesson 5: Summary
-[Duration]-[5-10 minutes]
+[Duration]-[1 minute]
 
 **DESCRIPTION:** A quick review of what we learned in section 3.
 
