@@ -14,10 +14,11 @@ we start building our web application in the next section.
    02-MQTT.md) (20-30)
 3. [Use LOUD NOISES to Protect Your Plant Buddies From Your Cat](
    03-Speaker.md) (10-20)
-4. [Highlight the Beauty of Your Plant Buddies With Lights!](
-   04-NeoPixel.md) (10-20)
-5. [Securely Disable the LOUD NOISES with RFID](
-   05-RFID.md) (10-20)
-6. [Summary](06-Summary.md) (1)
+4. [Secure Your Device Against Hackers](04-Secure.md) (20-30)
+5. [Highlight the Beauty of Your Plant Buddies With Lights!](
+   05-NeoPixel.md) (10-20)
+6. [Securely Disable the LOUD NOISES with RFID](
+   06-RFID.md) (10-20)
+7. Summary (1)
 
-Est. Runtime: 70-120 minutes
+Est. Runtime: 90-150 minutes

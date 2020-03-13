@@ -16,6 +16,6 @@ various sensors and actuators to an app on the internet.
    05-DHT22.md) (10-20)
 6. [Measure How Much Light Your Plant Buddies Are Getting](
    06-Light.md) (10-20)
-7. [Summary](07-Summary.md) (1)
+7. Summary (1)
 
 Est. Runtime: 40-80 minutes

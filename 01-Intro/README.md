@@ -7,6 +7,6 @@ IoT, and some of its uses in the real world.
 2. [Devices, Sensors, Actuators](02-Devices.md) (5-10)
 3. [Communication Protocols](03-Protocols.md) (5-10)
 4. [Cloud Providers](04-CloudProviders.md) (5-10)
-5. [Summary](05-Summary.md) (1)
+5. Summary (1)
 
 Est. Runtime: 20-40 minutes
