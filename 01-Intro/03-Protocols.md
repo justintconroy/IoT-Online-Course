@@ -1,5 +1,5 @@
 ## Lesson 3: Communication Protocols
-[Duration]-[10-20 minutes]
+[Duration]-[5-10 minutes]
 
 **DESCRIPTION:** In this lesson, we'll go over some of the different
 				 communication protocols available for connecting your

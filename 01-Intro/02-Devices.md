@@ -1,5 +1,5 @@
 ## Lesson 2: Devices, Sensors, Actuators
-[Duration]-[10-20 minutes]
+[Duration]-[5-10 minutes]
 
 **DESCRIPTION:** This lesson will give an overview of electronic
 				 components available for use in IoT Applications.

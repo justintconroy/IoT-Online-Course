@@ -14,11 +14,13 @@ internet and the cloud. This expects you to already know some basic
 programming and electronics skills as a prerequisite. So, we won't cover
 basic principles about electronics, microcontrollers, and programming.
 
-
+Throughout the course, we'll be building a home and garden automation
+system. Each lesson will build on previous lessons to add new
+capabilities to our system.
 
 ## Sections
 1. [Course Introduction](01-Intro/README.md)
-2. [Connecting Your Project to the Internet](03-Connecting/README.md)
+2. [Start Building an Internet Connected Device](02-Starting/README.md)
 3. [Connect Your Project to Your Custom Web Application](04-WebApps/README.md)
 
 Est. Runtime: 435-650 minutes

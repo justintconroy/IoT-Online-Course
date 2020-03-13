@@ -1,5 +1,5 @@
 ## Lesson 4: Cloud Providers
-[Duration]-[10-20 minutes]
+[Duration]-[5-10 minutes]
 
 **DESCRIPTION:** This will be an overview of cloud providers you can use
 				 to stay connected to your IoT devices.

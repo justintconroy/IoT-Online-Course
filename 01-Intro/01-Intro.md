@@ -1,5 +1,5 @@
 ## Lesson 1: Introduction to IoT and Course Outline
-[Duration]-[10-20 minutes]
+[Duration]-[5-10 minutes]
 
 **DESCRIPTION:** This lesson serves as an overview of the course and
 				 gives a brief introduction to everything we will be
