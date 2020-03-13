@@ -21,6 +21,7 @@ capabilities to our system.
 ## Sections
 1. [Course Introduction](01-Intro/README.md)
 2. [Start Building an Internet Connected Device](02-Starting/README.md)
-3. [Connect Your Project to Your Custom Web Application](04-WebApps/README.md)
+3. [Create a Custom Web App to Talk to Your Device](03-App/README.md)
+4. [Add More Unnecessary Features! (Optional)](04-Optional/README.md)
 
-Est. Runtime: 435-650 minutes
+Est. Runtime: 130-240 minutes

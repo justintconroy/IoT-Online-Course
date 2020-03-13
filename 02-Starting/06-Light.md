@@ -1,4 +1,4 @@
-## Lesson 6: Track Environmental Conditions Using the DHT22 Humidity/Temperature Sensor
+## Lesson 6: Measure How Much Light Your Plant Buddies Are Getting
 [Duration]-[10-20 minutes]
 
 **DESCRIPTION:** Temperature and humidity aren't the only environmental

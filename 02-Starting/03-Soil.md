@@ -1,7 +1,7 @@
 ## Lesson 3: Get a Reminder to Water Your Plant by Adding a Soil Sensor
 [Duration]-[5-10 minutes]
 
-**DESCRIPTION:** Using the <adafruit soil sensor>, we can measure the
+**DESCRIPTION:** Using the Adafruit STEMMA soil sensor, we can measure the
 moisture content of the soil. We'll set this up so that you get an alert
 on your phone when you've forgotten about your poor plant friends.
 
