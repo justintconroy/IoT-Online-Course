@@ -5,6 +5,7 @@ The focus of this section is getting to understand how to connect
 various sensors and actuators to an app on the internet.
 
 ## Lessons
+0. Intro (1)
 1. ["Blynk" an LED](01-BlynkLed.md) (5-10)
 2. [Add a Display Panel to Your Device](
    02-Display.md) (5-10)

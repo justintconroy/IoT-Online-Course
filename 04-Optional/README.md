@@ -6,6 +6,7 @@ if you want a full featured Cat Deterrent System (CDS) for your indoor
 garden, continue on!
 
 ## Lessons
+0. Intro (1)
 1. [Add a Motor to the Mix](01-Motor.md) (10-20)
 2. [Upgrade to a Full Color LCD](02-LCD.md) (20-30)
 3. [Add a Camera to Catch Your Cat in the Act](
@@ -14,3 +15,6 @@ garden, continue on!
    04-Printer.md) (10-20)
 5. [Measure Barometric Pressure... Because](
    05-Barometer.md) (10-20)
+6. Summary (1)
+
+Est. Runtime: 70-120 minutes
