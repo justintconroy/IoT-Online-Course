@@ -23,4 +23,4 @@ we start building our web application in the next section.
 7. [Host Your App on Azure](07-Azure.md) (20-30)
 8. Summary (1)
 
-Est. Runtime: 100-160 minutes
+Est. Runtime: 110-180 minutes

@@ -24,4 +24,4 @@ capabilities to our system.
 3. [Create a Custom Web App to Talk to Your Device](03-App/README.md)
 4. [Add More Unnecessary Features! (Optional)](04-Optional/README.md)
 
-Est. Runtime: 130-240 minutes
+Est. Runtime: 260-450 minutes
