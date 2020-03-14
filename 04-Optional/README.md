@@ -9,12 +9,13 @@ garden, continue on!
 0. Intro (1)
 1. [Add a Motor to the Mix](01-Motor.md) (10-20)
 2. [Upgrade to a Full Color LCD](02-LCD.md) (20-30)
-3. [Add a Camera to Catch Your Cat in the Act](
-   03-Camera.md) (20-30)
-4. [Add a Thermal Printer for the Hard Copy](
-   04-Printer.md) (10-20)
-5. [Measure Barometric Pressure... Because](
-   05-Barometer.md) (10-20)
-6. Summary (1)
+3. [Touch the Screen](03-Touch.md) (20-30)
+4. [Add a Camera to Catch Your Cat in the Act](
+   04-Camera.md) (20-30)
+5. [Add a Thermal Printer for the Hard Copy](
+   05-Printer.md) (10-20)
+6. [Measure Barometric Pressure... Because](
+   06-Barometer.md) (10-20)
+7. Summary (1)
 
-Est. Runtime: 70-120 minutes
+Est. Runtime: 90-150 minutes
