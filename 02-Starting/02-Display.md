@@ -3,7 +3,7 @@
 
 **DESCRIPTION:** In this lesson, we'll add an LCD character display to
 our device. We can potentially use this to debug our device when it's
-not connected to a computer, but mostly we'll be using it send ourselves
+not connected to a computer, but mostly we'll be using it to send ourselves
 dirty jokes.
 
 **Level:** [*Basic*]

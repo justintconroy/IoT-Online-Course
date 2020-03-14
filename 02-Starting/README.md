@@ -13,7 +13,7 @@ various sensors and actuators to an app on the internet.
    03-Soil.md) (5-10)
 4. [Know When Your Cat Is Eating Your Plants With a Motion Sensor](
    04-Motion.md) (5-10)
-5. [Track Environmental Conditions Using the DHT22 Humidity/Temperature Sensor](
+5. [Track Environmental Conditions Using the DHT-22 Humidity/Temperature Sensor](
    05-DHT22.md) (10-20)
 6. [Measure How Much Light Your Plant Buddies Are Getting](
    06-Light.md) (10-20)
