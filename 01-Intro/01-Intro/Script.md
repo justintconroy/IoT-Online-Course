@@ -65,8 +65,47 @@ in the course.
 
 
 ## What Will You Learn in This Course?
+In this course, you'll learn how to build an internet connected device,
 
+and eventually how to build a web app to interact with it.
+
+For most of the lessons, we'll be using an ESP32 as our microcontroller.
+
+At the start of the course, we'll connect our device
+
+to an app called Blynk to start things off simple.
+
+Later, we'll replace Blynk with our own web app.
+
+In this course, I'll be using C# and ASP.Net to build the web app.
+
+When we're ready for it, I'll be showing you how to host your app on Azure.
 
 
 ## Class Project
+Throughout this course, I'll be referencing a course project.
 
+We'll be building a device as part of the lessons.
+
+It will eventually become something of a frankenstein of sensors and actuators.
+
+It will give you a solid foundation for building IoT applications.
+
+You can build along at home, but it may be cost prohibitive to buy all
+
+the components we're going to use throughout the course.
+
+So, building your own is optional, but highly encouraged.
+
+You can always pick and choose the components you are most interested in
+
+and just build those parts of the project.
+
+By the end of the course, you should be comfortable using a wide range
+
+of components for your devices.
+
+## Bye
+So, that's the course in a nutshell.
+
+See you in the next lesson!
