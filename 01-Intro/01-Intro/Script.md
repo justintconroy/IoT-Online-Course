@@ -87,7 +87,7 @@ Throughout this course, I'll be referencing a course project.
 
 We'll be building a device as part of the lessons.
 
-It will eventually become something of a frankenstein of sensors and actuators.
+It will eventually become a whole ecosystem of sensors and actuators.
 
 It will give you a solid foundation for building IoT applications.
 
@@ -104,6 +104,14 @@ and just build those parts of the project.
 By the end of the course, you should be comfortable using a wide range
 
 of components for your devices.
+
+Everything we do for the project can be done at home without any specialized equipment.
+
+After each lesson where we add new capabilities to our ecosystem,
+
+we'll discuss how this information applies to industrial applications
+
+and how you can adapt it.
 
 ## Bye
 So, that's the course in a nutshell.
