@@ -1,5 +1,5 @@
 # Industrial IoT and the Cloud
-Automate Anything and connect to it anywhere
+Automate Anything and connect to it anywhere. This is a course I outlined for an online learning platform. In the end, I didn't move forward with the learning company involved, so no content was ever recorded. I might come back to this at some point in the near future and publish it myself.
 AUTHOR: Justin T. Conroy
 
 ## About the Author
